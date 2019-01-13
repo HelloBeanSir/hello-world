@@ -1,3 +1,3 @@
 # hello-world
 Just a test repository
-Hello github, I'm very intressting in git hub
+Hello github, I'm very intressting in Github
