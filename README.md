@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <title>家有喜事</title>
+#家有喜事
     <body>
         <h1>一夜暴富，喜得千金</h1>
         <label>婴儿性别:</label>
@@ -14,4 +12,3 @@
             <input type="text" value="💕母女平安💕"/><br>
         <button type="button" onclick="alert('💕感谢各位的美好祝福!💕')">祝贺</button>
     </body>
-</html>
